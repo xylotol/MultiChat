@@ -37,7 +37,7 @@ android {
         release {
             storeFile file("config/release.keystore")
             storePassword RELEASE_STORE_PASSWORD
-            keyAlias RELEASE_KEY_ALIAS
+            keyAlias Android
             keyPassword RELEASE_KEY_PASSWORD
         }
     }
@@ -85,7 +85,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "org.telegram.plus"
+        applicationId "org.telegram.multichat"
         minSdkVersion 8
         targetSdkVersion 21
         versionCode 458
