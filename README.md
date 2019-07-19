@@ -1,4 +1,4 @@
-### Plus Messenger for Android
+### MultiChat Messenger for Android
 
 This is an UNOFFICIAL app that uses [Telegram's API](https://core.telegram.org/api)
 
